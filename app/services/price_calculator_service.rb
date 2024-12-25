@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 class PriceCalculatorService
   CACHE_LIFETIME = 1.hour
 

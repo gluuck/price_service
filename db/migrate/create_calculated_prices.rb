@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 class CalculatedPrices < ActiveRecord::Migration[6.1]
   def change
     create_table :calculated_prices do |t|
